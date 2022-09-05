@@ -8,3 +8,4 @@ class Solution:
 
 # Time: O(n)
 # Space: O(1)
+# Notes: can use a hashmap (better time efficiency, space becomes o(n))for another solution
